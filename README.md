@@ -13,7 +13,7 @@ On this GitHub page you can find all products that were delivered as a result of
 
 ## contents of this Repo
 
-In this Repo you will find the python code to use in the source code to build the XML testfile creator tool. this can be found [here](/tree/main/TestFileCreater). Also the latest files that I used in the RinSim simulator are found [here](/tree/main/RinSimulatie)
+In this Repo you will find the python code to use in the source code to build the XML testfile creator tool. this can be found [here](/TestFileCreater). Also the latest files that I used in the RinSim simulator are found [here](/RinSimulatie)
 
 #### How to use
 The XML testfile creator tool I have written using Python 3.8 and Tkinter. Tkinter is a standard library in Python, so no further installation is required.
@@ -48,7 +48,7 @@ Op deze GitHub pagina kunt u alle producten vinden die opgeleverd zijn naar aanl
 
 ## Inhoud van deze Repo
 
-In deze repository vind u de Python source code voor de XML testfile creator tool. Deze kunt u [hier](/tree/main/TestFileCreater) vinden. [Hier](/tree/main/RinSimulatie) kunt u de laatste bestanden vinden die zijn gebruikt tijdens het bouwen van de simulatie in RinSin.
+In deze repository vind u de Python source code voor de XML testfile creator tool. Deze kunt u [hier](/TestFileCreater) vinden. [Hier](/RinSimulatie) kunt u de laatste bestanden vinden die zijn gebruikt tijdens het bouwen van de simulatie in RinSin.
 
 #### Gebruik
 De XML testfile creator tool Heb ik geschreven met behulp van Python 3.8 en Tkinter. Tkinter is een standaard library in Python, er is dus geen verdere installatie vereist.
